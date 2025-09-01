@@ -11147,7 +11147,7 @@ html[dir=rtl] .border-left-0 {
 }
 
 .border-yellow {
-    border-color: #ffb900!important
+    border-color: #b992eb !important
 }
 
 .border-teal {
@@ -18272,7 +18272,7 @@ html[dir=rtl] .ml-auto,html[dir=rtl] .mx-auto {
 }
 
 .text-yellow {
-    color: #ffb900!important
+    color: #b992eb !important
 }
 
 .text-teal {
@@ -19497,7 +19497,7 @@ html[dir=rtl] .text-right {
 }
 
 .bullet-yellow {
-    border: 2px solid #fdd17a !important
+    border: 2px solid #b992eb !important
 }
 
 .normal-blue {
@@ -19645,7 +19645,7 @@ html[dir=rtl] .text-right {
     border-top-width: 2px;
     border-style: solid;
     border-color: #ffffff;
-    background-color: #fdd17a !important
+    background-color: #c098f5 !important
     /*background-color: #d4ebff !important;*/
 }
 
@@ -19726,7 +19726,7 @@ html[dir=rtl] .text-right {
 
 .bg-item-lightyellow {
     /*background-color: rgb(245 241 208);*/
-    background-color: rgba(250, 248, 231, 0.75)!important
+    background-color: rgb(235, 225, 244) !important
 }
 
 .bg-item-green {
